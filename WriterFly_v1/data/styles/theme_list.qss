@@ -1,8 +1,0 @@
-/**
- * 设置主题列表界面
- */
-QListWidget
-{
-	background: transparent;
-	border: none;
-}
